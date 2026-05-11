@@ -6,4 +6,4 @@
 
 ⚡ **Core:** Rust, Go, Linux Kernel, K8s, NVMe-oF, BGP, Bare Metal Provisioning
 
-[LinkedIn](https://linkedin.com/in/maltej)
+Ping me on [LinkedIn](https://linkedin.com/in/maltej)!
