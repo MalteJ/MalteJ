@@ -1,6 +1,6 @@
 ### Hi, I'm Malte 👋
 
-**Systems Architect & Builder.** I bridge the gap between scaling enterprise cloud-native platforms (like SAP [IronCore](https://github.com/ironcore-dev) & [Garden Linux](https://github.com/gardenlinux) and deep, first-principles systems engineering. 
+**Systems Architect & Builder.** I bridge the gap between scaling enterprise cloud-native platforms (like SAP [IronCore](https://github.com/ironcore-dev) & [Garden Linux](https://github.com/gardenlinux)) and deep, first-principles systems engineering. 
 
 ## 🛠 Experimental Deep Dives & Current Research
 I spend my time exploring virtualization and bare-metal I/O from scratch:
